@@ -10,6 +10,7 @@ body {
 
 .navbar-brand h1 {
    margin: 0px;
+   color: #ffffff;
 }
 
 .navbar-brand a:hover, .navbar-brand a:focus {
