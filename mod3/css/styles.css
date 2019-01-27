@@ -27,4 +27,7 @@ body {
 .menu-desc {
    background-color: #CCBBCC;
    height: 1000px;
+   padding: 15px;
+   margin-left: 15px;
+   margin-right: 15px;
 }
