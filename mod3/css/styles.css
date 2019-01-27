@@ -1,0 +1,30 @@
+body {
+   background-color: #EEDDEE
+}
+
+#header-nav {
+   background-color : #662277;
+   border-radius: 0px;
+   border: 0;
+}
+
+.navbar-brand h1 {
+   margin: 0px;
+}
+
+.navbar-brand a:hover, .navbar-brand a:focus {
+   text-decoration: none;
+}
+
+.navbar-brand {
+   padding: 0;
+}
+
+#nav-list li {
+   text-align: center;
+}
+
+.menu-desc {
+   background-color: #CCBBCC;
+   height: 1000px;
+}
